@@ -10,10 +10,12 @@ Log4j 远程代码执行漏洞多线程漏洞批量检测与利用工具
 
 ![-w768](1.png)
 
-![2](2.png)
-
 工具包含漏洞验证功能与漏洞利用功能，在利用漏洞时候需要在公网IP上部署一个JNDI恶意服务 (https://github.com/feihong-cs/JNDIExploit)
 参数如下图，填入LDAP地址框，然后再使用公网IP监听端口来反弹shell。
+
+![2](2.png)
+
+
 
 ![3](3.png)
 
