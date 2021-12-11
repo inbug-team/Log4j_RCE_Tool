@@ -19,11 +19,13 @@ Log4j 远程代码执行漏洞多线程漏洞批量检测与利用工具
 
 ![3](3.png)
 
-当然inscan专业版集成了dnslog与自动化反弹shell功能，可全自动检测和利用 Log4j2远程代码执行漏洞
+当然InScan专业版也集成了dnslog与自动化反弹shell功能，可全自动检测和利用 Log4j2远程代码执行漏洞，通过Log4j2自动内网横向移动。
 
 ![4](4.png)
 
 ![5](5.png)
+
+![6](6.png)
 ### 提交反馈
 如有好的建议，以及发现BUG。    
 GitHub issue: https://github.com/inbug-team/Log4j_RCE_Tool/issues
