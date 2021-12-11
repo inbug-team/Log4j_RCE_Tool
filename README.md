@@ -10,7 +10,13 @@ Log4j 远程代码执行漏洞多线程漏洞批量检测与利用工具
 
 ![-w768](1.png)
 
+![2](2.png)
 
+![3](3.png)
+
+![4](4.png)
+
+![5](5.png)
 ### 提交反馈
 如有好的建议，以及发现BUG。    
 GitHub issue: https://github.com/inbug-team/Log4j_RCE_Tool/issues
