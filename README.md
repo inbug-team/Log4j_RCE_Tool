@@ -33,7 +33,7 @@ GitHub issue: https://github.com/inbug-team/Log4j_RCE_Tool/issues
 
 ## 版本更新
 * [+] 2021/12/11 第一版本。
-* [+] 2021/12/1 Apache_Log4j_RCE V0.2 修复了bug,加了超时时间，允许https，降低了并发，增加了自定义参数。
+* [+] 2021/12/11 Apache_Log4j_RCE V0.2 修复了bug,加了超时时间，允许https，降低了并发，增加了自定义参数。
 
 **官网(生成扫描器)：**
 https://www.inbug.org
