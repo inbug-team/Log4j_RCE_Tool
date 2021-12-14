@@ -34,6 +34,7 @@ GitHub issue: https://github.com/inbug-team/Log4j_RCE_Tool/issues
 ## 版本更新
 * [+] 2021/12/11 第一版本。
 * [+] 2021/12/11 Apache_Log4j_RCE V0.2 修复了bug,加了超时时间，允许https，降低了并发，增加了自定义参数。
+* [+] 2021/12/14 V1.0正式版，修改默认内置参数为爬虫的方式爬取网站深度为2层的含参数的POST与GET连接进行验证，提高漏洞准确率。
 
 **官网(生成扫描器)：**
 https://www.inbug.org
